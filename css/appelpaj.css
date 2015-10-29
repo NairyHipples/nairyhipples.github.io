@@ -15,8 +15,10 @@ header a, a:visited {
   width: 100%;
   font-weight: 600;
 }
-header > a {
-  color: #FFF;
+header a h1, header a h2 {
+  color: #000;
+  background-color: #FFF;
+  padding: 20px;
 }
 
 a:hover {
