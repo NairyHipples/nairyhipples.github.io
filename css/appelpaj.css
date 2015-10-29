@@ -53,3 +53,7 @@ section {
 section ul, ol {
   text-align: left;
 }
+
+footer {
+  text-align: center;
+}
