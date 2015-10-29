@@ -35,6 +35,7 @@ ul {
 }
 nav li {
   display: inline-block;
+  margin: 0 25px 0 25px;
 }
 
 section {
