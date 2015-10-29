@@ -13,6 +13,7 @@ header {
   width: 100%;
   background-position: 50% 50%;
   background-color: #72AD76;
+  margin-left: 0 auto;
 }
 
 a:hover {
