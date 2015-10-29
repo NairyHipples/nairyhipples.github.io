@@ -23,8 +23,8 @@ header {
   min-width: 700px;
 }
 
-a:hover {
-  color: #9E9E9E;
+header a:hover {
+  color: #DEDEDE;
 }
 
 h1 {
