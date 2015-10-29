@@ -39,7 +39,9 @@ nav li {
   display: inline-block;
   margin: 0 25px 0 25px;
 }
-
+main a {
+  color: #72AD76;
+}
 section {
   width: 700px;
   padding: 10px 0 10px 0;
