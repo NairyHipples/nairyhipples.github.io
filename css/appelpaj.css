@@ -9,9 +9,14 @@ header a, a:visited {
   text-decoration: none;
   color: #FFF;
 }
+header {
+  width: 100%;
+  background-position: 50% 50%;
+  background-color: #72AD76;
+}
 
 a:hover {
-
+  color: #grey;
 }
 
 h1 {
@@ -25,11 +30,6 @@ nav li {
   display: inline-block;
 }
 
-header {
-  width: 100%;
-  background-position: 50% 50%;
-  background-color: #72AD76;
-}
 
 @media all and (min-width: 0px) and (max-width: 500px) {
   nav a {
