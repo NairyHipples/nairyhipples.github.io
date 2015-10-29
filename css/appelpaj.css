@@ -24,7 +24,7 @@ nav li {
 header {
   width: 100%;
   background-position: 50% 50%;
-  /*color: #72AD76;*/
+  background-color: #72AD76;
 }
 
 @media all and (min-width: 0px) and (max-width: 500px) {
