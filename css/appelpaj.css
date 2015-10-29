@@ -40,7 +40,8 @@ nav li {
 section {
   width: 700px;
   padding: 10px 0 10px 0;
-  margin left: 0 auto;
+  margin-left: 0 auto;
+  margin-top: 10px;
   border-radius: 10px;
   background-color: #FFF;
   border: 0.5px solid #707371;
