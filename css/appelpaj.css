@@ -17,6 +17,9 @@ h1 {
 nav {
   text-decoration: none;
 }
+nav li {
+  display: inline-block;
+}
 
 header {
   width: 100%;
