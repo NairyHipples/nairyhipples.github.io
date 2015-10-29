@@ -15,7 +15,7 @@ header a, a:visited {
   width: 100%;
   font-weight: 600;
 }
-header a h1, header a h2 {
+header > a {
   color: #FFF;
 }
 
