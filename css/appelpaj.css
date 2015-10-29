@@ -42,8 +42,7 @@ section {
   margin left: 0 auto;
   border-radius: 10px;
   background-color: #FFF;
-  border-color: #000;
-  border: 4px;
+  border: 4px solid #000;
   text-align: center;
 }
 
