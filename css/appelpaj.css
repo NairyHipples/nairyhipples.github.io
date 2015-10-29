@@ -19,10 +19,6 @@ header {
   /*color: #72AD76;*/
 }
 
-a:visited {
-  text-decoration: none;
-}
-
 @media all and (min-width: 0px) and (max-width: 500px) {
   nav a {
     font-size: 100%;
