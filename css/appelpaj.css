@@ -22,7 +22,7 @@ header {
 }
 
 a:hover {
-  color: #grey;
+  color: #DEDEDE;
 }
 
 h1 {
@@ -37,6 +37,10 @@ nav li {
   display: inline-block;
 }
 
+section {
+  background-color: #FFF;
+  border-color:
+}
 
 @media all and (min-width: 0px) and (max-width: 500px) {
   nav a {
