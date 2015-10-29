@@ -3,7 +3,7 @@ body {
   background-color: #DEDEDE;
   height: 100%;
   width: 100%;
-  min-width: 30%;
+  min-width: 700px;
 }
 
 header a, a:visited {
@@ -20,6 +20,7 @@ header {
   background-color: #72AD76;
   margin-left: 0px;
   text-align: center;
+  min-width: 700px;
 }
 
 a:hover {
