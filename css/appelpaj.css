@@ -6,7 +6,7 @@ body {
   min-width: 700px;
 }
 
-a, a:visited {
+header a, a:visited {
   text-decoration: none;
   color: #416E44;
   float: left;
