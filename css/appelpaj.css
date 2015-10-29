@@ -17,6 +17,7 @@ header a, a:visited {
 }
 header a h1, header a h2 {
   color: #FFF;
+  background-color: #000;
 }
 
 a:hover {
