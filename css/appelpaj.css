@@ -24,7 +24,7 @@ header {
 }
 
 a:hover {
-  color: #DEDEDE;
+  color: #9E9E9E;
 }
 
 h1 {
@@ -40,7 +40,7 @@ nav li {
   margin: 0 25px 0 25px;
 }
 main a {
-  color: #72AD76;
+  color: #9E9E9E;
 }
 section {
   width: 700px;
