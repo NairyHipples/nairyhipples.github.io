@@ -3,7 +3,6 @@ body {
   background-color: #DEDEDE;
   height: 100%;
   width: 100%;
-  min-width: 600px;
 }
 
 header a, a:visited {
