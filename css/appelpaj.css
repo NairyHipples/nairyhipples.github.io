@@ -38,8 +38,9 @@ nav li {
 }
 
 section {
+  width: 300px;
   background-color: #FFF;
-  border-color:
+  border-color: #000;
 }
 
 @media all and (min-width: 0px) and (max-width: 500px) {
