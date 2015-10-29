@@ -6,7 +6,7 @@ body {
   min-width: 700px;
 }
 
-header a, a:visited {
+a, a:visited {
   text-decoration: none;
   color: #416E44;
   float: left;
@@ -15,7 +15,7 @@ header a, a:visited {
   width: 100%;
 }
 
-header a:hover {
+a:hover {
   color: #9E9E9E;
 }
 
@@ -35,12 +35,6 @@ nav ul {
 nav li {
   display: inline-block;
   margin: 0 25px 0 25px;
-}
-section a {
-  color: #416E44;
-}
-section a:hover, a:visited {
-  color: #72AD76
 }
 section {
   width: 700px;
