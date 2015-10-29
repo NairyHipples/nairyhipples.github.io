@@ -14,3 +14,7 @@ h1 {
 header {
   color: #72AD76;
 }
+
+a:visited {
+  text-decoration: none;
+}
