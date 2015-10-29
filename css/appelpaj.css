@@ -48,3 +48,7 @@ section {
   border: 1px solid #9E9E9E;
   text-align: center;
 }
+
+section ul, ol {
+  text-align: left;
+}
