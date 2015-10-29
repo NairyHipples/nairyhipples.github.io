@@ -14,6 +14,11 @@ header a, a:visited {
   padding: 10px 0 0 0;
   width: 100%;
 }
+
+header a:hover {
+  color: #DEDEDE;
+}
+
 header {
   width: 100%;
   background-position: 50% 50%;
@@ -21,14 +26,6 @@ header {
   margin-left: 0px;
   text-align: center;
   min-width: 700px;
-}
-
-header a:hover {
-  color: #DEDEDE;
-}
-
-h1 {
-
 }
 
 nav ul {
@@ -39,8 +36,11 @@ nav li {
   display: inline-block;
   margin: 0 25px 0 25px;
 }
-main a {
-  color: #9E9E9E;
+section a {
+  color: #416E44;
+}
+section a:hover, a:visited {
+  color: #72AD76;
 }
 section {
   width: 700px;
