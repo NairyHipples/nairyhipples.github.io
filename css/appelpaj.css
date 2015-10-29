@@ -13,6 +13,10 @@ h1 {
 
 }
 
+nav {
+  text-decoration: none;
+}
+
 header {
   width: 100%;
   background-position: 50% 50%;
