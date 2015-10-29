@@ -5,9 +5,13 @@ body {
   width: 100%;
 }
 
-a, a:visited {
+header a, a:visited {
   text-decoration: none;
   color: #FFF;
+}
+
+a:hover {
+
 }
 
 h1 {
