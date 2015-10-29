@@ -21,8 +21,8 @@ header a h1, header a h2 {
 }
 
 a:hover {
-  color: #7EBD7F;
-  text-shadow: 5px 5px 20px #D9D575;
+  color: #FFF;
+  text-shadow: 5px 5px 20px #000;
 }
 
 header {
