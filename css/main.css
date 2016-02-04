@@ -47,13 +47,13 @@ header {
 h1 {
   font-family: 'Lobster', cursive;
   margin: 15px 0;
-  font-size: 2.75em;
+  font-size: 5em;
   font-weight: normal;
   line-height: 0.8em;
 }
 
 h2 {
-  font-size: 0.75em;
+  font-size: 1em;
   margin: -5px 0 0;
   font-weight: normal;
 }
@@ -81,7 +81,7 @@ nav li {
 }
 
 nav a {
-  font-weight: 800;
+  font-size: 2em;
   padding: 15px 10px;
 }
 
@@ -133,8 +133,11 @@ PAGE: PORTFOLIO
 }
 
 .assignmentWrapper {
-  border-bottom: 3px solid #9c9c9c;
-  margin-bottom: 5px;
+  height: 5px;
+  border-top: 3px solid #FFF;
+  background: #FF5E5E;
+  margin-bottom: 50px;
+  box-shadow: 0px 5px 20px #666;
 }
 
 /**********************************
@@ -188,7 +191,7 @@ COLORS
 /* site body */
 body {
   background-color: #fff;
-  color: #999;
+  color: #525252;
 }
 
 /* green header */
@@ -206,13 +209,13 @@ nav {
 
 /* logo text */
 h1 {
-  color: #FF3D3D;
-  text-shadow: 3px 3px 4px #000;
+  color: #FF5E5E;
+  text-shadow: 0px 2px 10px #000;
 }
 
 h2 {
   color: #FFF;
-  text-shadow: 3px 3px 4px #000;
+  text-shadow: 0px 1px 5px #000;
 }
 
 /* links */
@@ -228,12 +231,11 @@ nav a {
 /* nav link hover */
 nav a:hover {
   color: #ADADAD;
-  text-shadow: 2px 2px 4px #000;
 }
 
 
 /* selected nav link */
 nav a.selected {
   color: #FF5E5E;
-  text-shadow: 2px 2px 4px #000;
+  text-shadow: 0px 2px 10px #000;
 }
