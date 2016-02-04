@@ -132,7 +132,9 @@ PAGE: PORTFOLIO
   color: #bdc3c7
 }
 
-
+.assignmentWrapper {
+  border-bottom: 2px solid #f4f4f4;
+}
 
 /**********************************
 PAGE: ABOUT
