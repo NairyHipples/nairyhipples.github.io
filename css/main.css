@@ -133,8 +133,8 @@ PAGE: PORTFOLIO
 }
 
 .assignmentWrapper {
-  height: 5px;
-  border-top: 3px solid #FFF;
+  height: 3px;
+  border-top: 1px solid #FFF;
   background: #FF5E5E;
   margin-bottom: 50px;
   box-shadow: 0px 5px 20px #666;
